@@ -1,0 +1,2 @@
+man commnd 
+used to display the name
